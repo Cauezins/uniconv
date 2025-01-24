@@ -1,11 +1,26 @@
 {
   "name": "unit-convertor-js",
   "version": "1.0.0",
+  "description": "A versatile and lightweight JavaScript library for unit conversions, supporting length, area, volume, and more.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaueNeves/unit-convertor-js.git"
   },
+  "keywords": [
+    "unit-conversion",
+    "javascript-library",
+    "length-conversion",
+    "volume-conversion",
+    "area-conversion",
+    "open-source",
+    "npm-library",
+    "developer-tools"
+  ],
   "author": "Cauê Neves",
   "license": "MIT",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/Cauezins/unit-convertor-js/issues"
+  },
+  "homepage": "https://github.com/Cauezins/unit-convertor-js#readme"
 }
