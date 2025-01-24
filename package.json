@@ -1,11 +1,11 @@
 {
-  "name": "unit-convertor-js",
+  "name": "uniconv",
   "version": "1.0.0",
   "description": "A versatile and lightweight JavaScript library for unit conversions, supporting length, area, volume, and more.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CaueNeves/unit-convertor-js.git"
+    "url": "https://github.com/CaueNeves/uniconv.git"
   },
   "keywords": [
     "unit-conversion",
@@ -20,7 +20,7 @@
   "author": "Cauê Neves",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cauezins/unit-convertor-js/issues"
+    "url": "https://github.com/Cauezins/uniconv/issues"
   },
-  "homepage": "https://github.com/Cauezins/unit-convertor-js#readme"
+  "homepage": "https://github.com/Cauezins/uniconv#readme"
 }
