@@ -1,6 +1,6 @@
 {
   "name": "uniconv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A versatile and lightweight JavaScript library for unit conversions, supporting length, area, volume, and more.",
   "main": "index.js",
   "repository": {
